@@ -1,0 +1,16 @@
+.countries {
+  max-width: 990px;
+  width: calc(100% - 40px);
+
+  background-color: #7098db;
+  border-radius: 1em;
+
+  padding: 20px 10px;
+  margin: 30px 20px;
+  margin-bottom: 40px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}
